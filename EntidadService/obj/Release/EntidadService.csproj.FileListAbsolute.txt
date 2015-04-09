@@ -1,0 +1,5 @@
+c:\Users\Publy7\Documents\Visual Studio 2012\Projects\EntidadService\EntidadService\bin\EntidadService.dll
+c:\Users\Publy7\Documents\Visual Studio 2012\Projects\EntidadService\EntidadService\bin\EntidadService.pdb
+c:\Users\Publy7\Documents\Visual Studio 2012\Projects\EntidadService\EntidadService\obj\Release\EntidadService.dll
+c:\Users\Publy7\Documents\Visual Studio 2012\Projects\EntidadService\EntidadService\obj\Release\EntidadService.pdb
+c:\Users\Publy7\Documents\Visual Studio 2012\Projects\EntidadService\EntidadService\obj\Release\EntidadService.csprojResolveAssemblyReference.cache

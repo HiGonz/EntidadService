@@ -1,0 +1,5 @@
+c:\users\publy7\documents\visual studio 2012\Projects\EntidadService\EntidadService\obj\Debug\EntidadService.csprojResolveAssemblyReference.cache
+c:\users\publy7\documents\visual studio 2012\Projects\EntidadService\EntidadService\bin\EntidadService.dll
+c:\users\publy7\documents\visual studio 2012\Projects\EntidadService\EntidadService\bin\EntidadService.pdb
+c:\users\publy7\documents\visual studio 2012\Projects\EntidadService\EntidadService\obj\Debug\EntidadService.dll
+c:\users\publy7\documents\visual studio 2012\Projects\EntidadService\EntidadService\obj\Debug\EntidadService.pdb
